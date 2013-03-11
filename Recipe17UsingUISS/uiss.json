@@ -1,0 +1,30 @@
+{
+    "Variables": {
+        "tint":"#3299cc"
+    },
+    "UINavigationBar": {
+        "tintColor": "$tint"
+    },
+    "MyView": {
+        
+        "dotColor": "$tint"
+    },
+    "UITabBar": {
+        "tintColor": "$tint",
+        "selectedImageTintColor": "red",
+        "UITabBarItem": {
+            "titleTextAttributes:normal": {
+                "textColor": "orange"
+            },
+            "titleTextAttributes:selected": {
+                "textColor": "white"
+            }
+        }
+    },
+    "UISwitch":{
+        "tintColor": "#ff0000"
+    },
+
+    
+
+}
