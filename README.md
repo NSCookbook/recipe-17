@@ -3,6 +3,8 @@ recipe-17
 
 Using UISS To Theme Your Application.
 
+The recipe (tutorial) that accompanies this source code can be found [here](http://nscookbook.com/2013/03/ios-programming-recipe-17-using-uiss-to-theme-your-application/).
+
 Please visit [NSCookbook](http://nscookbook.com) for more information.
 
 ###Getting Started
